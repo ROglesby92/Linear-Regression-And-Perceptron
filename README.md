@@ -5,4 +5,4 @@ Python barebones implementation of Linear Regression using Gradient Descent, and
 perceptron.py train test model
 
  
-ex: perceptron.py spambase_train.csv spambase_test.csv modelfile.txt
+ex: perceptron.py spambase-train.csv spambase-test.csv modelfile.txt
