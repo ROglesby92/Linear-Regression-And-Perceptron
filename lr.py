@@ -2,6 +2,7 @@
 #
 # Barebones Python implementation of Logistic Regression.
 # Using Gradient Decent. ( NO NUMPY )
+# Author: Ryan Oglesby
 #
 import sys
 import re
